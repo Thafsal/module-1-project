@@ -5,7 +5,6 @@ This is a modern, responsive **portfolio website** developed using **HTML**, **C
 ## 🌐 Live Demo
 
 [🔗 View Live Website](https://silly-puffpuff-3ee2e0.netlify.app/)  
-> *(Replace `#` with your GitHub Pages or Netlify link)*
 
 ---
 
